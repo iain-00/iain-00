@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 🌏, I'm Iain Johnston</h1>
-<h3 align="center">A Software Developer</h3>
+<h1 align="left">Hello 🌏, I'm Iain Johnston :space_invader:</h1>
+<h3 align="left">A Software Developer</h3>
 - 🌱 I’m currently learning MongoDB and Python
 
 
