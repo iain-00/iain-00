@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **iain-00/iain-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Iain Johnston</h1>
 <h3 align="center">A Software Developer</h3>
-
+- 🌱 I’m currently learning MongoDB and Python
 
 
 <h3 align="left">Connect with me:</h3>
